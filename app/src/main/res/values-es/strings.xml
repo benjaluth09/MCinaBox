@@ -2,8 +2,8 @@
 
     <string name="title_game_list">Lista de versiones</string>
     <string name="title_game_dir">Ubicacion de archivos</string>
-    <string name="title_launcher_setting">Configuracion de arranque</string>
-    <string name="title_keyboard_setting">Configuración de teclado virtual</string>
+    <string name="title_launcher_setting">Configuración de arranque</string>
+    <string name="title_keyboard_setting">Configuración del teclado virtual</string>
     <string name="title_home">Inicio</string>
 
     <string name="app_about_copyright">Copyright</string>
@@ -12,7 +12,7 @@
     <string name="app_about_thanks">Agradecimientos</string>
     <string name="app_about_dependent">Dependencia</string>
     <string name="app_about_details">Detalles de responsabilidad</string>
-    <string name="app_about_opensource">Codigo abierto</string>
+    <string name="app_about_opensource">Código abierto</string>
 
     <string name="title_setting">Configuración</string>
     <string name="title_launcher_private_path">Ruta privada</string>
@@ -22,19 +22,19 @@
     <string name="title_max_memory">Memoria máxima (MB)</string>
     <string name="title_hardware_memory">Tamaño de la memoria física:</string>
     <string name="title_profession_setting">Configuración avanzada</string>
-    <string name="title_not_check_jvm_platform">No verificar la compatibilidad de las estructuras JVM.</string>
-    <string name="title_not_check_minecraft">No verificar la integridad de minecraft.</string>
+    <string name="title_not_check_jvm_platform">No verifique la compatibilidad de las estructuras JVM.</string>
+    <string name="title_not_check_minecraft">No verifique la integridad de Minecraft.</string>
     <string name="title_backspace">Retroceder</string>
     <string name="title_refresh">Actualizar</string>
     <string name="title_download">Descargar</string>
     <string name="title_selected_version">La versión seleccionada es:</string>
-    <string name="title_version_stable">Versión estable</string>
-    <string name="title_version_snapshot">Versión snapshot</string>
-    <string name="title_version_old">Versión antigua</string>
+    <string name="title_version_stable">Versiones estables</string>
+    <string name="title_version_snapshot">Versiones Snapshot</string>
+    <string name="title_version_old">Versiones antiguas</string>
     <string name="title_install_new_version">Instalar nueva versión</string>
     <string name="title_install_game_pack">Instalar paquete</string>
     <string name="title_game_global_setting">Preferencias del juego global</string>
-    <string name="title_create_new_user">Añadir usuario</string>
+    <string name="title_create_new_user">Añadir un usuario</string>
     <string name="title_launcher">Arranque</string>
     <string name="title_game">Juego</string>
     <string name="title_account">Cuenta</string>
@@ -43,7 +43,7 @@
     <string name="title_select_version">Seleccionar versión</string>
     <string name="title_launch_game">Iniciar juego</string>
     <string name="title_download_source">Fuente de descarga Minecraft</string>
-    <string name="title_import_runtime">Importar la biblioteca</string>
+    <string name="title_import_runtime">Importar el runtime</string>
     <string name="title_import">Importar</string>
     <string name="title_about_launcher">Sobre MCinaBox</string>
     <string name="title_runtime_package_name">Nombre del paquete</string>
@@ -57,15 +57,15 @@
     <string name="title_current_task">Proceso actual</string>
     <string name="title_current_version">Versión actual</string>
 
-    <string name="tips_launcher_path">Nota: la utilización de "rutas privadas" puede no requerir la autorización de escritura de la Mcinabox, pero la descarga de la Mcinabox perderá toda la información del "Directorio privado".</string>
+    <string name="tips_launcher_path">Nota: la utilización de "rutas privadas" puede no requerir la autorización de escritura de la MCinabox, pero la descarga de la Mcinabox perderá toda la información del "Directorio privado".</string>
     <string name="tips_jvm_extra_args">Parámetros de la máquina virtual Java (no es necesario rellenar)</string>
     <string name="tips_minecraft_extra_args">Parámetros adicionales de minecraft (no es necesario rellenar)</string>
 
     <string name="tips_import_runtime">Por favor, coloque el archivo local del sufijo tar.xz en la carpeta sdcard / android / data / com.aof.mcinambox / files / mcinobox / runtimepack \nLuego selecciona y exporta la página en el dispositivo de arranque</string>
-    <string name="tips_check_setting">Por favor, complete la configuración del arranque</string>
+    <string name="tips_check_setting">Por favor, completa la configuración del arranque</string>
     <string name="tips_refresh_finished">Actualizar vt.</string>
     <string name="tips_please_refresh">Actualizar primero la lista</string>
-    <string name="tips_please_select_version">Por favor, elija una versión</string>
+    <string name="tips_please_select_version">Por favor, elige una versión</string>
     <string name="tips_online_version_notfound">Fallo de descarga sin respuesta</string>
     <string name="tips_online_version_downloadstart">Iniciar descarga</string>
     <string name="tips_online_version_refresh_finish">Lista de versiones completada</string>
@@ -76,17 +76,17 @@
     <string name="tips_launcher_new_success">Crear plantilla de arranque</string>
     <string name="tips_launcher_load_fail">Error en la configuración de arranque</string>
     <string name="tips_launcher_load_bad">Archivo de configuración dañado</string>
-    <string name="tips_user_nousername">Introduzca su nombre de usuario</string>
+    <string name="tips_user_nousername">Introduce tu nombre de usuario</string>
     <string name="tips_user_sameusername">Este usuario ya existe</string>
     <string name="tips_add_success">Añadir éxito</string>
 
-    <string name="tips_runtime_notfound">La biblioteca no existe</string>
-    <string name="tips_installing_runtime">Instalando el hangar…</string>
-    <string name="tips_runtime_install_successed">La instalación de la biblioteca se realizo con exito!</string>
-    <string name="tips_runtime_install_failed">Hubo un fallo de instalación de la biblioteca</string>
+    <string name="tips_runtime_notfound">El runtime no existe</string>
+    <string name="tips_installing_runtime">Instalando el runtime…</string>
+    <string name="tips_runtime_install_successed">¡La instalación del runtime se realizó con éxito!</string>
+    <string name="tips_runtime_install_failed">Hubo un fallo de instalación del runtime</string>
     <string name="tips_runtime_install_fail_exeable">Error en la configuración de permisos</string>
 
-    <string name="title_ok">Determinación</string>
+    <string name="title_ok">Aceptar</string>
     <string name="title_cancel">Cancelar</string>
     <string name="title_name">Nombre de clave</string>
     <string name="title_location">Ubicación (DP)</string>
@@ -109,13 +109,13 @@
     <string name="title_user_name">Nombre de usuario</string>
     <string name="tips_user_namehint">Nombre de usuario o cuenta</string>
     <string name="title_password">Contraseña</string>
-    <string name="tips_please_enter_password">Introduzca la contraseña.</string>
-    <string name="title_online">En linea</string>
+    <string name="tips_please_enter_password">Introduce la contraseña.</string>
+    <string name="title_online">En línea</string>
     <string name="title_load">Cargar</string>
     <string name="title_model">Configuración</string>
-    <string name="tips_keybard_choose">Seleccione su plantilla: </string>
+    <string name="tips_keybard_choose">Selecciona tu plantilla: </string>
     <string name="tips_keyboard_path">Ruta de guardado de plantillas:</string>
-    <string name="title_filename">Por favor, espere a que termine la descarga, si la descarga es lenta, intente reemplazar otras fuentes de descarga</string>
+    <string name="title_filename">Por favor, espera a que termine la descarga, si la descarga es lenta, intenta reemplazar otras fuentes de descarga</string>
     <string name="title_output">Exportación</string>
 
     <string name="tips_keyboard_config_name_notfound">El nombre de la tecla no está vacío</string>
@@ -129,18 +129,18 @@
     <string name="tips_keyboard_config_location_notfound">Las coordenadas no pueden estar vacías.</string>
     <string name="tips_keyboard_config_size_notfound">La anchura no está vacía.</string>
     <string name="tips_keyboard_button_notfound">Las plantillas no pueden estar vacías</string>
-    <string name="tips_gamecheck_file_notfull">Si la verificación de integridad de archivo no ha sido aprobada, desmantele la verificación de archivos o vuelva a descargar la versión del juego en la configuración global del juego</string>
-    <string name="tips_gamecheck_platform_uncorrect">La arquitectura de la Biblioteca de operaciones no es compatible, por favor Desactive la verificación de compatibilidad o instale la Biblioteca de operaciones correcta en la configuración global del juego</string>
+    <string name="tips_gamecheck_file_notfull">Si la verificación de integridad de archivo está aprobada, desmantela la verificación de archivos o vuelve a descargar la versión del juego en la configuración global del juego</string>
+    <string name="tips_gamecheck_platform_uncorrect">La arquitectura del runtime de operaciones no es compatible, por favor Desactiva la verificación de compatibilidad o instala el runtime de operaciones correcta en la configuración global del juego</string>
     <string name="tips_keyboard_config">Pista: 1. Pulse sobre el botón para arrastrar, para que la tecla se mueva con el dedo\nPista: 2. Pulse largo sin arrastrar para editar o eliminar el botón seleccionado</string>
     <string name="tips_gamecheck_version_notfound">Antes de activar el Forge, instale la versión del juego correspondiente.</string>
     <string name="tips_gamecheck_jar_notfound">El archivo principal del juego está incompleto.</string>
 
-    <string name="tips_not_install_runtime">No instalar biblioteca local</string>
+    <string name="tips_not_install_runtime">Sin instalación del runtime local</string>
     <string name="tips_not_selected_user">Usuario no creado o seleccionado</string>
     <string name="tips_not_select_version">Versión del juego sin descargar ni seleccionar</string>
     <string name="tipper_warn_keyboard_notselected">Plantilla de teclado no creada o seleccionada</string>
     <string name="tips_available_memory_low">El tamaño actual de la memoria provoca un colapso.</string>
-    <string name="app_about_details_info">Mojang AB poseía todos los derechos de autor de minecraft, y se habían planteado problemas de derechos de autor durante la utilización del programa informático, por lo que los productores no eran responsables.</string>
+    <string name="app_about_details_info">Mojang AB posee todos los derechos de autor de Minecraft, y se habían planteado problemas de derechos de autor durante la utilización del programa informático, por lo que los productores no eran responsables.</string>
     <string name="app_about_mcinabox">La empresa MCinaBox Minecraft launcher es una fuente libre de recursos Minecraft launcher que permite a los jugadores instalarse y administrarse con rapidez y facilidad en el equipo Android que funciona el juego.</string>
     <string name="app_about_opensource_info">https://github.com/longjunyu2/MCinaBox  (Protocolo de apertura GPLv3 para este proyecto, por favor, cumpla los requisitos de licencia de fuente abierta)</string>
     <string name="app_about_thanks_info">CosineMath (BoatApp, https://github.com/CosineMath/) launcher back-end support \\nbangbang93 (BMCLAPI, http://bmclapi2.bangbang93.com/)\\nApp icon provider MCreadbear\\ nAOF software development team</string>
@@ -152,8 +152,8 @@
     <string name="tips_download_version_json">Descargando la lista principal de documentos...</string>
     <string name="tips_download_version_libraries">Descargando archivos primarios y bibliotecas auxiliares...</string>
     <string name="tips_login_wait">Ya voy, un momento.</string>
-    <string name="tips_warning_delect_user">Desea eliminar este usuario?</string>
-    <string name="tips_downloader_warn">Si la lista no se muestra durante mucho tiempo, pulse manualmente \"actualizar\"</string>
+    <string name="tips_warning_delect_user">¿Deseas eliminar este usuario?</string>
+    <string name="tips_downloader_warn">Si la lista no se muestra durante mucho tiempo, pulsa manualmente \"Actualizar\"</string>
     <string name="title_offline">Desconectar</string>
     <string name="title_unknown">Desconocido</string>
     <string name="title_version">Versión:</string>
@@ -162,4 +162,4 @@
 
 </resources>
 
-<!-- Created by Salted fish King -->
+<!-- Updated by benjaluth09 -->
